@@ -1,0 +1,11 @@
+commit 08ba44ac23ffd85d6318d8d65a8bb11570ee6aeb
+Author: luiselenes <luiseelenes@outlook.com>
+Date:   Thu Sep 12 12:20:29 2019 -0600
+
+    Encabezado principal en index
+
+commit a32ad89cafed55b0ecbc43415609b9941c7e82ef
+Author: luiselenes <luiseelenes@outlook.com>
+Date:   Wed Sep 11 12:51:56 2019 -0600
+
+    Archivos iniciales
